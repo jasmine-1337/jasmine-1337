@@ -8,7 +8,7 @@
   </a>
 </div>
 
-## Welcome to my GitHub. My name is Kimiko, it's lovely seeing you here!
+## Welcome to my GitHub. My name is Kimiko, it's lovely to see you here!
 
 ---
 
