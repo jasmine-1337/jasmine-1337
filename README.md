@@ -42,8 +42,16 @@ I am a Junior Data Engineer, from the UK.
 
 ---
 
+### :bar_chart: Projects :
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimiko-dev&theme=material-palenight&repo=Pinterest-Data-Pipeline)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimiko-dev&theme=material-palenight&repo=Multinational-Retail-Data-Centralisation)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kimiko-dev&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kimiko-dev&theme=material-palenight)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimiko-dev&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimiko-dev&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
