@@ -44,13 +44,13 @@ I am a Junior Data Engineer, from the UK.
 
 ### :bar_chart: Data Engineering Projects :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimiko-dev&theme=material-palenight&repo=Pinterest-Data-Pipeline)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimiko-dev&theme=material-palenight&repo=Multinational-Retail-Data-Centralisation)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimiko-dev&theme=material-palenight&repo=Pinterest-Data-Pipeline)](https://github.com/kimiko-dev/Pinterest-Data-Pipeline)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimiko-dev&theme=material-palenight&repo=Multinational-Retail-Data-Centralisation)](https://github.com/kimiko-dev/Multinational-Retail-Data-Centralisation)
 
 ---
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimiko-dev&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimiko-dev&theme=material-palenight)](https://github.com/kimiko-dev)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kimiko-dev&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kimiko-dev&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/kimiko-dev)
