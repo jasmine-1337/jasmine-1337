@@ -42,7 +42,7 @@ I am a Junior Data Engineer, from the UK.
 
 ---
 
-### :bar_chart: Projects :
+### :bar_chart: Data Engineering Projects :
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimiko-dev&theme=material-palenight&repo=Pinterest-Data-Pipeline)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimiko-dev&theme=material-palenight&repo=Multinational-Retail-Data-Centralisation)](https://github.com/anuraghazra/github-readme-stats)
