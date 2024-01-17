@@ -16,7 +16,7 @@
 
 I am a Junior Data Engineer, from the UK.
 
-- 🔭 I’m currently working on improving my typing speed.
+- 🔭 I’m currently working on making my own website!
 - 🌱 I’m currently learning about SQL Server. Including Stored Procedures and Transact-SQL.
 - 💬 Ask me about any of my projects! I had a lot of fun making them, and love discussing the intricacies.
 - :mailbox: You can find me here: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimiko-dev/)
