@@ -53,4 +53,4 @@ I am a Junior Data Engineer, from the UK.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimiko-dev&theme=material-palenight)](https://github.com/kimiko-dev)
 
-[![GitHub Streak](https://github-readme-streak-stats-ten-pied.vercel.app?user=kimiko-dev&theme=material-palenight&date_format=n%2Fj%5B%2FY%5D)](https://github.com/kimiko-dev)
+[![GitHub Streak](https://github-readme-streak-stats-ten-pied.vercel.app?user=kimiko-dev&theme=material-palenight)](https://git.io/streak-stats)
