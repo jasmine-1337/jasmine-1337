@@ -16,8 +16,8 @@
 
 I am a Junior Data Engineer, from the UK.
 
-- 🔭 I’m currently working on an Uber Data Pipeline!
-- 🌱 I’m currently learning Java.
+- 🔭 I’m currently working on a [Spotify Interface Data Pipeline](https://github.com/kimiko-dev/Spotify-Interface-Data-Pipeline/tree/master)!
+- 🌱 I’m currently learning how to build a Linux Distro.
 - 💬 Ask me about any of my projects! I had a lot of fun making them, and love discussing the intricacies.
 - :mailbox: You can find me here: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimiko-dev/)
 - 😄 Pronouns: she/her
