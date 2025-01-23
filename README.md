@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/kimiko-dev/">
+  <a href="https://www.linkedin.com/in/jasmine-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -16,10 +16,10 @@
 
 I am a Junior Data Engineer, from the UK.
 
-- 🔭 I’m currently working on a [Spotify Interface Data Pipeline](https://github.com/kimiko-dev/Spotify-Interface-Data-Pipeline/tree/master)!
+- 🔭 I’m currently working on a [Spotify Interface Data Pipeline](https://github.com/jasmine-1337/Spotify-Interface-Data-Pipeline/tree/master)!
 - 🌱 I’m currently learning how to build a Linux Distro.
 - 💬 Ask me about any of my projects! I had a lot of fun making them, and love discussing the intricacies.
-- :mailbox: You can find me here: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimiko-dev/)
+- :mailbox: You can find me here: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasmine-dev/)
 - 😄 Pronouns: she/her
 
 ---
@@ -44,13 +44,13 @@ I am a Junior Data Engineer, from the UK.
 
 ### :bar_chart: Data Engineering Projects :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimiko-dev&theme=material-palenight&repo=Pinterest-Data-Pipeline)](https://github.com/kimiko-dev/Pinterest-Data-Pipeline)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimiko-dev&theme=material-palenight&repo=Multinational-Retail-Data-Centralisation)](https://github.com/kimiko-dev/Multinational-Retail-Data-Centralisation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasmine-1337&theme=material-palenight&repo=Pinterest-Data-Pipeline)](https://github.com/jasmine-1337/Pinterest-Data-Pipeline)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasmine-1337&theme=material-palenight&repo=Multinational-Retail-Data-Centralisation)](https://github.com/jasmine-1337/Multinational-Retail-Data-Centralisation)
 
 ---
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimiko-dev&theme=material-palenight)](https://github.com/kimiko-dev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmine-1337&theme=material-palenight)](https://github.com/jasmine-1337)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kimiko-dev&theme=material-palenight)](https://github.com/kimiko-dev)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jasmine-1337&theme=material-palenight)](https://github.com/jasmine-1337)
